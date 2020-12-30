@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebTest</name>
+    </assembly>
+    <members>
+        <member name="M:WebTest.ReceptionController.Index">
+            <summary>
+            获取列表
+            </summary>
+            <returns>返回json结果</returns>
+        </member>
+        <member name="M:WebTest.ReceptionController.UseTran">
+            <summary>
+            使用事务
+            </summary>
+            <returns>返回成功与否</returns>
+        </member>
+        <member name="M:WebTest.ReceptionController.UseSql">
+            <summary>
+            使用sql语句
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebTest.ReceptionController.UseProcedure">
+            <summary>
+            使用存储过程
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:WebTest.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            把services集添加到容器container
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:WebTest.Startup.ConfigureContainer(Autofac.ContainerBuilder)">
+            <summary>
+            使用功能丰富的Autofac容器替代默认容器
+            </summary>
+            <param name="builder"></param>
+        </member>
+        <member name="M:WebTest.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IWebHostEnvironment)">
+            <summary>
+            配置HTTP请求管道
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+    </members>
+</doc>
