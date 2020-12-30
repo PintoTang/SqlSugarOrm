@@ -5,7 +5,7 @@ namespace Model
 {
 
     [SugarTable("TestRecord")]//当和数据库名称不一样可以设置别名
-    public class TestRecord
+    public class HS_PC_TestRecord
     {
         [SugarColumn(IsPrimaryKey = true, IsIdentity = true)]//通过特性设置主键和自增列 
         public string No { get; set; }

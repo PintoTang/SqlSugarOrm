@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pinto\\source\\repos\\MyDemo\\Service\\Service.csproj": {}
+    "D:\\MyGitHub\\SqlSugarOrm\\Service\\Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pinto\\source\\repos\\MyDemo\\Model\\Model.csproj": {
+    "D:\\MyGitHub\\SqlSugarOrm\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\Model\\Model.csproj",
+        "projectUniqueName": "D:\\MyGitHub\\SqlSugarOrm\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\Model\\Model.csproj",
+        "projectPath": "D:\\MyGitHub\\SqlSugarOrm\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\Pinto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\Model\\obj\\",
+        "outputPath": "D:\\MyGitHub\\SqlSugarOrm\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pinto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -64,14 +64,14 @@
         }
       }
     },
-    "C:\\Users\\Pinto\\source\\repos\\MyDemo\\Service\\Service.csproj": {
+    "D:\\MyGitHub\\SqlSugarOrm\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\Service\\Service.csproj",
+        "projectUniqueName": "D:\\MyGitHub\\SqlSugarOrm\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\Service\\Service.csproj",
+        "projectPath": "D:\\MyGitHub\\SqlSugarOrm\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\Pinto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\Service\\obj\\",
+        "outputPath": "D:\\MyGitHub\\SqlSugarOrm\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pinto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -88,11 +88,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Pinto\\source\\repos\\MyDemo\\Model\\Model.csproj": {
-                "projectPath": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\Model\\Model.csproj"
+              "D:\\MyGitHub\\SqlSugarOrm\\Model\\Model.csproj": {
+                "projectPath": "D:\\MyGitHub\\SqlSugarOrm\\Model\\Model.csproj"
               },
-              "C:\\Users\\Pinto\\source\\repos\\MyDemo\\SqlSugarTool\\SqlSugarTool.csproj": {
-                "projectPath": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\SqlSugarTool\\SqlSugarTool.csproj"
+              "D:\\MyGitHub\\SqlSugarOrm\\SqlSugarTool\\SqlSugarTool.csproj": {
+                "projectPath": "D:\\MyGitHub\\SqlSugarOrm\\SqlSugarTool\\SqlSugarTool.csproj"
               }
             }
           }
@@ -125,14 +125,14 @@
         }
       }
     },
-    "C:\\Users\\Pinto\\source\\repos\\MyDemo\\SqlSugarTool\\SqlSugarTool.csproj": {
+    "D:\\MyGitHub\\SqlSugarOrm\\SqlSugarTool\\SqlSugarTool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\SqlSugarTool\\SqlSugarTool.csproj",
+        "projectUniqueName": "D:\\MyGitHub\\SqlSugarOrm\\SqlSugarTool\\SqlSugarTool.csproj",
         "projectName": "SqlSugarTool",
-        "projectPath": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\SqlSugarTool\\SqlSugarTool.csproj",
+        "projectPath": "D:\\MyGitHub\\SqlSugarOrm\\SqlSugarTool\\SqlSugarTool.csproj",
         "packagesPath": "C:\\Users\\Pinto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\SqlSugarTool\\obj\\",
+        "outputPath": "D:\\MyGitHub\\SqlSugarOrm\\SqlSugarTool\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pinto\\AppData\\Roaming\\NuGet\\NuGet.Config",

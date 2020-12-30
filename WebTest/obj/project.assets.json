@@ -7869,11 +7869,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\WebTest\\WebTest.csproj",
+      "projectUniqueName": "D:\\MyGitHub\\SqlSugarOrm\\WebTest\\WebTest.csproj",
       "projectName": "WebTest",
-      "projectPath": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\WebTest\\WebTest.csproj",
+      "projectPath": "D:\\MyGitHub\\SqlSugarOrm\\WebTest\\WebTest.csproj",
       "packagesPath": "C:\\Users\\Pinto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\WebTest\\obj\\",
+      "outputPath": "D:\\MyGitHub\\SqlSugarOrm\\WebTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pinto\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7890,14 +7890,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Pinto\\source\\repos\\MyDemo\\Model\\Model.csproj": {
-              "projectPath": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\Model\\Model.csproj"
+            "D:\\MyGitHub\\SqlSugarOrm\\Model\\Model.csproj": {
+              "projectPath": "D:\\MyGitHub\\SqlSugarOrm\\Model\\Model.csproj"
             },
-            "C:\\Users\\Pinto\\source\\repos\\MyDemo\\Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\Service\\Service.csproj"
+            "D:\\MyGitHub\\SqlSugarOrm\\Service\\Service.csproj": {
+              "projectPath": "D:\\MyGitHub\\SqlSugarOrm\\Service\\Service.csproj"
             },
-            "C:\\Users\\Pinto\\source\\repos\\MyDemo\\SqlSugarTool\\SqlSugarTool.csproj": {
-              "projectPath": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\SqlSugarTool\\SqlSugarTool.csproj"
+            "D:\\MyGitHub\\SqlSugarOrm\\SqlSugarTool\\SqlSugarTool.csproj": {
+              "projectPath": "D:\\MyGitHub\\SqlSugarOrm\\SqlSugarTool\\SqlSugarTool.csproj"
             }
           }
         }

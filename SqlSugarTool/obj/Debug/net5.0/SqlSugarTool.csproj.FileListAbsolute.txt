@@ -22,3 +22,15 @@ C:\Users\Pinto\source\repos\MyDemo\SqlSugarTool\obj\Debug\net5.0\SqlSugarTool.cs
 C:\Users\Pinto\source\repos\MyDemo\SqlSugarTool\obj\Debug\net5.0\SqlSugarTool.dll
 C:\Users\Pinto\source\repos\MyDemo\SqlSugarTool\obj\Debug\net5.0\ref\SqlSugarTool.dll
 C:\Users\Pinto\source\repos\MyDemo\SqlSugarTool\obj\Debug\net5.0\SqlSugarTool.pdb
+D:\MyGitHub\SqlSugarOrm\SqlSugarTool\bin\Debug\net5.0\SqlSugarTool.deps.json
+D:\MyGitHub\SqlSugarOrm\SqlSugarTool\bin\Debug\net5.0\SqlSugarTool.dll
+D:\MyGitHub\SqlSugarOrm\SqlSugarTool\bin\Debug\net5.0\ref\SqlSugarTool.dll
+D:\MyGitHub\SqlSugarOrm\SqlSugarTool\bin\Debug\net5.0\SqlSugarTool.pdb
+D:\MyGitHub\SqlSugarOrm\SqlSugarTool\obj\Debug\net5.0\SqlSugarTool.csprojAssemblyReference.cache
+D:\MyGitHub\SqlSugarOrm\SqlSugarTool\obj\Debug\net5.0\SqlSugarTool.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyGitHub\SqlSugarOrm\SqlSugarTool\obj\Debug\net5.0\SqlSugarTool.AssemblyInfoInputs.cache
+D:\MyGitHub\SqlSugarOrm\SqlSugarTool\obj\Debug\net5.0\SqlSugarTool.AssemblyInfo.cs
+D:\MyGitHub\SqlSugarOrm\SqlSugarTool\obj\Debug\net5.0\SqlSugarTool.csproj.CoreCompileInputs.cache
+D:\MyGitHub\SqlSugarOrm\SqlSugarTool\obj\Debug\net5.0\SqlSugarTool.dll
+D:\MyGitHub\SqlSugarOrm\SqlSugarTool\obj\Debug\net5.0\ref\SqlSugarTool.dll
+D:\MyGitHub\SqlSugarOrm\SqlSugarTool\obj\Debug\net5.0\SqlSugarTool.pdb

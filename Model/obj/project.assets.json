@@ -7216,11 +7216,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\Model\\Model.csproj",
+      "projectUniqueName": "D:\\MyGitHub\\SqlSugarOrm\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\Model\\Model.csproj",
+      "projectPath": "D:\\MyGitHub\\SqlSugarOrm\\Model\\Model.csproj",
       "packagesPath": "C:\\Users\\Pinto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\Model\\obj\\",
+      "outputPath": "D:\\MyGitHub\\SqlSugarOrm\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pinto\\AppData\\Roaming\\NuGet\\NuGet.Config",

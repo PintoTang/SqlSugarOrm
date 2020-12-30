@@ -39,17 +39,14 @@ namespace SqlSugarTool
                     });
                 }
 
-                //生命周期：从一次请求开始到结束期间
                 if (lifetime == ServiceLifetime.Scoped)
                 {
                     services.AddScoped(s => { return new SqlSugarClient(list); });
                 }
-                //生命周期：从服务创建到销毁期间
                 if (lifetime == ServiceLifetime.Singleton)
                 {
                     services.AddSingleton(s => { return new SqlSugarClient(list); });
                 }
-                //生命周期：每次请求瞬间
                 if (lifetime == ServiceLifetime.Transient)
                 {
                     services.AddSingleton(s => { return new SqlSugarClient(list); });

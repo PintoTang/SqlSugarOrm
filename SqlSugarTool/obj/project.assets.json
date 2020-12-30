@@ -7412,11 +7412,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\SqlSugarTool\\SqlSugarTool.csproj",
+      "projectUniqueName": "D:\\MyGitHub\\SqlSugarOrm\\SqlSugarTool\\SqlSugarTool.csproj",
       "projectName": "SqlSugarTool",
-      "projectPath": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\SqlSugarTool\\SqlSugarTool.csproj",
+      "projectPath": "D:\\MyGitHub\\SqlSugarOrm\\SqlSugarTool\\SqlSugarTool.csproj",
       "packagesPath": "C:\\Users\\Pinto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\SqlSugarTool\\obj\\",
+      "outputPath": "D:\\MyGitHub\\SqlSugarOrm\\SqlSugarTool\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pinto\\AppData\\Roaming\\NuGet\\NuGet.Config",

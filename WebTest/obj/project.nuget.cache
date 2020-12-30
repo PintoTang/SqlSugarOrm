@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EnEaDOYAtYNuxesa1yPQ3CBmM6cxA5L6/jVOFTxFtj0e4nmmbtI00OQnCZoqYChTSShHsph+xuOB+shN6ntwCA==",
+  "dgSpecHash": "RSkAS3C2GZZnuxEyllmiE6eiehNfKOdO1TEmhvldjKFOTeZPpE5TQdVintscjsfS+TOx8Xxz2UcG2KYLu4FotA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\WebTest\\WebTest.csproj",
+  "projectFilePath": "D:\\MyGitHub\\SqlSugarOrm\\WebTest\\WebTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pinto\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\Pinto\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.1.0\\autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

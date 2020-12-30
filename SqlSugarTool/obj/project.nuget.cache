@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7WuumVGPiEv4csE+nNR9fIK7vyJzw99a+I/pcbg9pKVkSbABOjxiqUns2iT4A3Wyqn6kNPtraZ7A/Y5kHgjjrQ==",
+  "dgSpecHash": "Lqx0CtDsvgtoV927mjSNyKkV0wiydvCbvsbaAxcmpH+2nf83lpd3eHc/H6czFaL4DiXXAGUydLlftF/zKoQTpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Pinto\\source\\repos\\MyDemo\\SqlSugarTool\\SqlSugarTool.csproj",
+  "projectFilePath": "D:\\MyGitHub\\SqlSugarOrm\\SqlSugarTool\\SqlSugarTool.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Pinto\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\Pinto\\.nuget\\packages\\google.protobuf\\3.6.1\\google.protobuf.3.6.1.nupkg.sha512",

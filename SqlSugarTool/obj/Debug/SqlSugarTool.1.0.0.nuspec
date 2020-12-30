@@ -16,6 +16,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\Pinto\source\repos\MyDemo\SqlSugarTool\bin\Debug\net5.0\SqlSugarTool.dll" target="lib\net5.0\SqlSugarTool.dll" />
+    <file src="D:\MyGitHub\SqlSugarOrm\SqlSugarTool\bin\Debug\net5.0\SqlSugarTool.dll" target="lib\net5.0\SqlSugarTool.dll" />
   </files>
 </package>

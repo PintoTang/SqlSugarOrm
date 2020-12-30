@@ -16,3 +16,12 @@ C:\Users\Pinto\source\repos\MyDemo\Model\obj\Debug\netcoreapp3.1\Model.AssemblyI
 C:\Users\Pinto\source\repos\MyDemo\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
 C:\Users\Pinto\source\repos\MyDemo\Model\obj\Debug\netcoreapp3.1\Model.dll
 C:\Users\Pinto\source\repos\MyDemo\Model\obj\Debug\netcoreapp3.1\Model.pdb
+D:\MyGitHub\SqlSugarOrm\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+D:\MyGitHub\SqlSugarOrm\Model\bin\Debug\netcoreapp3.1\Model.dll
+D:\MyGitHub\SqlSugarOrm\Model\bin\Debug\netcoreapp3.1\Model.pdb
+D:\MyGitHub\SqlSugarOrm\Model\obj\Debug\netcoreapp3.1\Model.csprojAssemblyReference.cache
+D:\MyGitHub\SqlSugarOrm\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+D:\MyGitHub\SqlSugarOrm\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+D:\MyGitHub\SqlSugarOrm\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+D:\MyGitHub\SqlSugarOrm\Model\obj\Debug\netcoreapp3.1\Model.dll
+D:\MyGitHub\SqlSugarOrm\Model\obj\Debug\netcoreapp3.1\Model.pdb

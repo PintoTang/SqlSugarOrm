@@ -9,13 +9,13 @@ namespace Service
 {
     public class ReceptionService: IReceptionService
     {
-        private IRepository<TestRecord> repository;
+        private IRepository<HS_PC_TestRecord> repository;
 
         /// <summary>
         /// 直接注入仓储类,不必使用base来操作基类方法,这样最方便
         /// </summary>
         /// <param name="_repository"></param>
-        public ReceptionService(IRepository<TestRecord> _repository)
+        public ReceptionService(IRepository<HS_PC_TestRecord> _repository)
         {
             repository = _repository;
 
@@ -27,9 +27,9 @@ namespace Service
             };
         }
 
-        
+
         /// <summary>
-        /// 连表查询与跨库查询（同种数据库，不跨机器）示例,跨机器查询不知能不能实现
+        /// 连表查询与跨库查询（不跨机器同种类型数据库）示例,跨机器查询不知能不能实现
         /// </summary>
         /// <returns></returns>
         public dynamic GetDataList()
@@ -60,14 +60,9 @@ namespace Service
             {
                 var result = repository.UseTran(()=>
                 {
-                    var aaa = repository.GetList().Where(x => x.Remark == "测试记录").ToList();//使用“HSPC”库
-
                     var uuu = repository.DbClient.Ado.ExecuteCommand("Update TestRecord set Remark='Test222' where Remark='Test111'");
-
                     repository.DbClient.ChangeDatabase("MYHR");//切换数据库“MYHR”
-
-                    var bbb = repository.DbClient.Queryable<MY_HR_UserInfo>().Where(u => u.JobNo == "190605326").ToList();//使用“MYHR”库   
-                    
+                    var bbb = repository.DbClient.Queryable<MY_HR_UserInfo>().Where(u => u.JobNo == "190605326").ToList();//使用“MYHR”库                       
                 });
                 if (result.IsSuccess)
                     return 1;
