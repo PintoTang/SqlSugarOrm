@@ -1,4 +1,4 @@
-### SqlSugarOrm（带WebTest测试项目）
+### .Net5.0 封装的SqlSugar Orm工具（已带WebTest测试项目）
  
  欢迎各位使用与指正!!!
 	
