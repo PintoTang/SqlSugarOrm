@@ -10,14 +10,14 @@
 	"DbConfig": {
     "MYBR": {
       "ConfigName": "MYBR",
-      "ConnectionString": "Database=MY_BR;Server=10.106.7.32;User ID=test;Password=test;Max Pool Size = 512;",
+      "ConnectionString": "Database=MY_BR;Server=localhost;User ID=test;Password=test;Max Pool Size = 512;",
       "DbType": "SQLServer",
       "IsAutoCloseConnection": true,
       "Default": true
     },
     "MYHR": {
       "ConfigName": "MYHR",
-      "ConnectionString": "Database=MY_HR_2020061101;Server=10.106.7.32;User ID=test;Password=test;Max Pool Size = 512;",
+      "ConnectionString": "Database=MY_HR_2020061101;Server=localhost;User ID=test;Password=test;Max Pool Size = 512;",
       "DbType": "SQLServer",
       "IsAutoCloseConnection": true,
       "Default": true
